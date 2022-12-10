@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/saikhantminbhone/Code/Web3/crowdfunding/thirdweb-contracts/contracts/Crowdfunding.sol": {
+      "lastModificationDate": 1670670722449,
+      "contentHash": "36630afec7d172aaba9fb84528597b8d",
+      "sourceName": "contracts/Crowdfunding.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "CrowdFunding"
+      ]
+    }
+  }
+}
